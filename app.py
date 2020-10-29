@@ -40,11 +40,17 @@ Orchestra6 = input("I enjoy music.")
 Drama6 = input("I enjoy acting.")
 Art6 = input("I enjoy using colors.")
 
-Com_final = int(Com1) + int(Com2) + int(Com3) + int(Com4) + int(Com5) + int(Com6)
-Bball_final = int(Bball1) + int(Bball2) + int(Bball3) + int(Bball4) + int(Bball5) + int(Bball6)
-Orchestra_final = int(Orchestra1) + int(Orchestra2) + int(Orchestra3) + int(Orchestra4) + int(Orchestra5) + int(Orchestra6)
-Drama_final = int(Drama1)+ int(Drama2)+ int(Drama3)+ int(Drama4)+ int(Drama5) + int(Drama6)
-Art_final = int(Art1)+ int(Art2)+ int(Art3)+ int(Art4)+ int(Art5) + int(Art6)
+Com7 = input("I love solving problems in coding.")
+Bball7 = input("I love being part of a competitive game.")
+Orchestra7 = input("I love making music to make people happy.")
+Drama7 = input("I love pretending to be someone else.")
+Art7 = input("I love colourful paintings.")
+
+Com_final = int(Com1) + int(Com2) + int(Com3) + int(Com4) + int(Com5) + int(Com6) + int(Com7)
+Bball_final = int(Bball1) + int(Bball2) + int(Bball3) + int(Bball4) + int(Bball5) + int(Bball6)+ int(Bball7)
+Orchestra_final = int(Orchestra1) + int(Orchestra2) + int(Orchestra3) + int(Orchestra4) + int(Orchestra5) + int(Orchestra6) + int(Orchestra7)
+Drama_final = int(Drama1)+ int(Drama2)+ int(Drama3)+ int(Drama4)+ int(Drama5) + int(Drama6) + int(Drama7)
+Art_final = int(Art1)+ int(Art2)+ int(Art3)+ int(Art4)+ int(Art5) + int(Art6)+ int(Art7)
 
 print()
 
